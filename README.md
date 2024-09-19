@@ -14,11 +14,11 @@ RSA:
 
 MISC:
 
-![MISC](image\MISC.png)
+![MISC](https://github.com/huihuilikaile/CYH_D/blob/main/image/MISC.png)
 
 CRYPTO:
 
-![CRYPTO](image\CRYPTO.png)
+![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/main/image/CRYPTO.png)
 
 ### 最后：
 
