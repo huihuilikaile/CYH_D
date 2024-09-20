@@ -8,17 +8,17 @@
 
 RSA:
 
-![RSA](image\RSA.png)
+![RSA](https://github.com/huihuilikaile/CYH_D/blob/main/image/RSA.png)
 
 参数放置合适位置点击解密即可，有数个解密方式需要等待数秒，使用了多线程不会卡死。
 
 MISC:
 
-![MISC](image\MISC.png)
+![MISC](https://github.com/huihuilikaile/CYH_D/blob/main/image/MISC.png)
 
 CRYPTO:
 
-![CRYPTO](image\CRYPTO.png)
+![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/main/image/CRYPTO.png)
 
 ### 最后：
 
