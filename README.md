@@ -22,5 +22,7 @@ CRYPTO:
 
 ### 最后：
 
-Releases中使用pyinstaller -F打包启动稍慢，单个占用大，CYH_D里面使用pyinstall -D 打包启动快，单个exe占用小
+欢迎交流!
+公众号：Cyhui
+qq：2780159708
 
