@@ -20,6 +20,9 @@ CRYPTO:
 
 ![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/main/image/CRYPTO.png)
 
+### 更新日志：
+2024/9/30 增加base32隐写 解决pyinstaller 6.3 资源路径问题
+
 ### 最后：
 
 欢迎交流!
