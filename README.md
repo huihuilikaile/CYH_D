@@ -20,6 +20,10 @@ CRYPTO:
 
 ![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/main/image/CRYPTO.png)
 
+VOL：
+![VOL](https://github.com/huihuilikaile/CYH_D/blob/huihui/image/vol3.png)
+
+
 ### 更新日志：
 2024/9/30 增加base32隐写 解决pyinstaller 6.3 资源路径问题<br>
 2024/10/16 增加gif帧间隔，gif图片提取，pem文件解析，实现liunx的strings功能，增加词频分析，zip嵌套解压<br>
