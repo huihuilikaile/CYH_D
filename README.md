@@ -8,17 +8,17 @@
 
 RSA:
 
-![RSA](https://github.com/huihuilikaile/CYH_D/blob/main/image/RSA.png)
+![RSA](https://github.com/huihuilikaile/CYH_D/blob/huihui/image/RSA.png)
 
 参数放置合适位置点击解密即可，有数个解密方式需要等待数秒，使用了多线程不会卡死。
 
 MISC:
 
-[![MISC](https://github.com/huihuilikaile/CYH_D/blob/main/image/misc2.png)
+[![MISC](https://github.com/huihuilikaile/CYH_D/blob/huihui/image/MISC.png)
 
 CRYPTO:
 
-![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/main/image/CRYPTO.png)
+![CRYPTO](https://github.com/huihuilikaile/CYH_D/blob/huihui/image/CRYPTO.png)
 
 VOL：
 ![VOL](https://github.com/huihuilikaile/CYH_D/blob/huihui/image/vol3.png)
