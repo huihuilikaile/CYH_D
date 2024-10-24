@@ -22,7 +22,8 @@ CRYPTO:
 
 ### 更新日志：
 2024/9/30 增加base32隐写 解决pyinstaller 6.3 资源路径问题<br>
-2024/10/16 增加gif帧间隔，gif图片提取，pem文件解析，实现liunx的strings功能，增加词频分析，zip嵌套解压
+2024/10/16 增加gif帧间隔，gif图片提取，pem文件解析，实现liunx的strings功能，增加词频分析，zip嵌套解压<br>
+2024/10/24 增加vol3 gui化,增加二维码条形码扫描识别
 
 ### 最后：
 
